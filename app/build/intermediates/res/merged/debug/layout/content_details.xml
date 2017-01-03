@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="tmj5.project.nihonmosquelocator.DetailsActivity"
+    tools:showIn="@layout/activity_details">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_prefecture_judul"
+                android:layout_margin="16dp"
+                android:layout_marginRight="8dp"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:text="Prefektur : "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tv_prefecture"
+                android:layout_toRightOf="@id/tv_prefecture_judul"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:textSize="24sp"
+                android:text="Asahina"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_address_judul"
+                android:layout_margin="16dp"
+                android:layout_marginRight="8dp"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:text="Alamat : "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tv_address"
+                android:layout_toRightOf="@id/tv_address_judul"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:textSize="24sp"
+                android:text="Asahina"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_email_judul"
+                android:layout_margin="16dp"
+                android:layout_marginRight="8dp"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:text="E-Mail : "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tv_email"
+                android:layout_toRightOf="@id/tv_email_judul"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:textSize="24sp"
+                android:text="Asahina"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_web_judul"
+                android:layout_margin="16dp"
+                android:layout_marginRight="8dp"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:text="Website : "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tv_web"
+                android:layout_toRightOf="@id/tv_web_judul"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:textSize="24sp"
+                android:text="Asahina"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </RelativeLayout>
+
+        <fragment
+            android:name="tmj5.project.nihonmosquelocator.Fragment.MapsFragment"
+            class="com.google.android.gms.maps.SupportMapFragment"
+            android:id="@+id/fragmenMap"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+    </LinearLayout>
+
+
+
+</android.support.v4.widget.NestedScrollView>

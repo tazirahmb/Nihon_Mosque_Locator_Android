@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_aea091d64aa046a4d9373b9bf64b05cf32fb9619\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_6a359e26a6e9f8fbabbc8912e8031fd14a149b3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_f7edc4dd1b5443c9a7acf35d7260e57ef1523a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_69e4072936f612459026e16d092045ae674eed91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_791c4879fd81288a6212de751e4aa965e4cc7ed8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_8d0448335828352bf9b8c352ddecf8fcc6279dc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_a4e3edb297bc2261cccb6ea6efcdeee740abc598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_d6a8701fdb59d7795bef0c438bbd5a20fb41eb12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_e4232f333b62851a7d91df0a3b5b0d8ef3a6f303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_0de1be185a756d93f82e03053cf80daef08e39fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_d8e55dd63fbeb3e7bd97a59b978695a18b20cd32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_c0ac514ca5cb3ccfe86706609f57c808a54053e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_b776b67356d386015de5b23366e3f9577e6bbfef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_059e30de548ba8c0058048e35a594740667aa263\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f7c2d7b6b5b60193f3806b6d7d7a6f14818d964d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_e5c6e9a912605f5d1826669434a18a82c30ed2d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_150bb9e3f3447fa202b6441edfe8830f1f112961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_e2424f51b6e1e65b9342ebe2de77ba5a691e9ba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_d6d2456d8f01464279961f15f165c689f9fb7b95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_74b3c949142c24fa1d0413f6a57e263d4b5c6b84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_9508d02a5e76bd87dde5050e0a71440d8b546a93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9a1d2a371bac2c803b5bcf235007ecbc420ee5e4">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_12274a9bc09dc2849756ee60cf3daff9386c8a45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_b379ea46ba5277ea93bc0512d8911e378957f5bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_ab8be0a5a7f9feb740a97f38e83c7d70195d543f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_398821b4e3c396a04d175b75c53e3623ca7a298f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_2ce281827783af42e4f408b7a7adfa8334b9e691\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_3460ac522a1511d09bc6173e687b10faa20c885d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_dc71643895c61a76719c1b1beb5d15dab062e25b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_db2d0f066994fe42cd9b3a184a6c56f46bccb47c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_bfd64f912d37bd92380887f9b383375e4eff578e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zira\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_b1d459540093dbd4ff58a7eb51b62d78769f81cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_21380bbc5b3b5f362465b2f5271a1781608329d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_9fc2f3c089c831c92db7ac4fd8a82bf52524eef8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_a4b7d4ac139b7559a3fd50526ae61519554bf13b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_f9ea2665e579b7fd1ee877eb28a1988dcc434dd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_3bb7b1fe6c42793ffb2cf3de4497c23d1d9df2ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_d46d3515545a1d8d569b97d8f00f8d92026c91e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_71789d093d53b67086888006ba20e279ae6ad904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_ef78c30993c25a8f43a62e7f5051c15b730a9722\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zira\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_9d2a6f0c3694a93bd5e4815162858dcb889bf725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_1f8eb4edc7a93280c7bc660b60c56b065fe189a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_ea5aac631d52d003c536c4f2d630d6ddf8946639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_6785b0a561537657f696e72e1f6070287cba5ab8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_54fdda475e19e55cc4c6fcfe0da76875640d7650\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_bea8cee712a6685520e1654c128c4a45f1ae15a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_56d015f4ff131aec5edb755693da3d26bc038669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_9b808bd67ca6c3c1f2982c2ee6e2694931d1d4f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_0bab276ebe92d822a05b74592bc554a18cea546f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_d6fd90fce3f165d2a6caee8e753a2d1e7bad60e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_a83d70ed56de664462efeefc97fc245968b450f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_7459d30dbdcaa6ad88cb8bc31815f3f969bf40ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7bc058c1fcc40ef1e72d1c4fc5463450ea9f6434">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_787dfa7e85fe01944f244530327c6f7bd8200ac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-glide-transformations-2.0.1_b49b465e74dcf87a650502d46248f4848e992938\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_99bc126e62be43e4d1b957ba5e050d118867f77d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_82f2c2dbcc4ac94b62914d5c09e51b7194a1211d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_0454060c573c2b94b60e24c24d3d27137e7cb533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_ab2c135186b203e6bac8c352ffe0be14914707f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_f1d26eb33eeb688da00dfb82c7eb077c6dd43a80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_59751e3328392bac2737677068b036421babe5b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_34ebc01b3eb2b69d48670b45a06e78fc585fa1ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_8ca78ee71ff566e814272c3bb6f892dbd7e9a074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_19fd42f9f6daa5a43a20a08da3bc8c5dad91051d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_56396c84db407f354e340b6f6fee74fc94aea9df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_aac00d09a64c03ee04da9542a8823204bbcc5092\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_32647184cae6a5f41654d9677321d2e8f968b0d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_5afc9ade312303085bea81720fedd7a41a36e161\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_3081a2141dfa3cf8ea04c24336d49427f81063ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_3e41bce1f47ecf7a8a6965edcfa5e197f394502c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\OneDrive\CODEnian\JAVA-AndroidNative\NihonMosqueLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_249d84335089d0154f68753b36e911829bdff9d6\classes.dex" />
+    </item>
+
+</items>

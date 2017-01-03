@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=AE:3F:1E:49:F3:6B:D4:7C:64:3A:AC:5B:AF:9A:C2:83:43:21:5E:21%3Btmj5.project.nihonmosquelocator
+
+    You can also add your credentials to an existing key, using this line:
+    AE:3F:1E:49:F3:6B:D4:7C:64:3A:AC:5B:AF:9A:C2:83:43:21:5E:21;tmj5.project.nihonmosquelocator
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDd9mYR_G_bZwr2ti5e2rK5lpNiRJ2W8jI
+    </string>
+</resources>
